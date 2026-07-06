@@ -1,0 +1,13 @@
+# Core NLP & ML
+nltk==3.9.1
+scikit-learn==1.5.2
+numpy==1.26.4
+
+# UI
+streamlit==1.40.2
+
+# Data handling
+pandas==2.2.3
+
+# Utilities (already in stdlib for Python 3.7+, listed for completeness)
+# pathlib, json, logging, re, datetime — no install needed
